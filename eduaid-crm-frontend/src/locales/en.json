@@ -1,0 +1,23 @@
+{
+    "months": {
+        "jan": "January",
+        "feb": "February",
+        "mar": "March",
+        "apr": "April",
+        "may": "May",
+        "jun": "June",
+        "jul": "July",
+        "aug": "August",
+        "sep": "September",
+        "oct": "October",
+        "nov": "November",
+        "dec": "December"
+    },
+    "sitePreference": {
+        "perPage": "No of Items in a List",
+        "dateFormat": "Date Format",
+        "grossTotal": "Gross Total",
+        "grandTotal": "Grand Total",
+        "total": "Total"
+    }
+}
